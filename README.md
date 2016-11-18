@@ -1,0 +1,3 @@
+# node_webkit
+
+resources
